@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 
   <p align="center">
         <img src="https://komarev.com/ghpvc/?username=Dattatraybodake" alt="Profile Views" />
-        <a href="https://stackoverflow.com/users/16260040/Dattatraybodake?tab=profile" target="_blank" >
-          <img src="https://img.shields.io/stackexchange/stackoverflow/r/16260040?color=orange&label=StackOverflowProfile&logo=stackoverflow" alt="Stack Overflow Profile Reach" />
-        </a>
-      </p>
+    </a>
+  </p>
+
+<div align="center">
+    <p>
+        🌱 I’m constantly evolving my coding skills and exploring new opportunities to grow and contribute. Every project is a step toward becoming a better developer, and I’m always open to learning, collaborating, and making a positive impact in the tech community.
+    </p>
+</div>
+
 
 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
