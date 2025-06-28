@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
-<!-- -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact)
 
 opportunity to improve my work.
@@ -25,12 +26,16 @@ opportunity to improve my work.
 Here are some of the languages and tools I actively use:
 
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
+
+<div style="border-left: 3px solid black; height: 200px; margin: 10px;"></div>
 
 
 
 
 
-📊 GitHub Stats
 
 🌍 Follow Me Around the Web
 Twitter 🐦
