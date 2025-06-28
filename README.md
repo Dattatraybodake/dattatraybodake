@@ -4,7 +4,10 @@
 **Dattatraybodake/dattatraybodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me
-<!-- Welcome to my personal repository! This space reflects who I am as a developer and a lifelong learner. It includes the configurations that shape my GitHub profile, along with a curated collection of my personal projects, interests, and the tools I enjoy using. Through this repository, I aim to share not just my technical skills, but also my journey, passion for problem-solving, and the values I prioritize in my work.-->
+<p>
+        🌱 I’m constantly evolving my coding skills and exploring new opportunities to grow and contribute. Every project is a step toward becoming a better developer, and I’m always open to learning, collaborating, and making a positive impact in the tech community.
+    </p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,10 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <p align="center">
-        <img src="https://komarev.com/ghpvc/?username=Dattatraybodake" alt="Profile Views" />
-    </a>
-  </p>
 
 <div align="center">
     <p>
@@ -52,8 +51,8 @@ Here are some of the languages and tools I actively use:
 
 | Left Column | Right Column |
 |-------------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)  | 
+![Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact) |
 
 
 
