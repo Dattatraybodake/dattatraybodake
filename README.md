@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 opportunity to improve my work.
 
 🛠️ Technologies & Tools
+![Vertical Line](https://www.svgrepo.com/show/43326/line.svg)
+
 Here are some of the languages and tools I actively use:
 
 
@@ -34,6 +36,9 @@ Here are some of the languages and tools I actively use:
 
 
 
+| Left Column | Right Column |
+|-------------|--------------|
+| Content     | Content      |
 
 
 
