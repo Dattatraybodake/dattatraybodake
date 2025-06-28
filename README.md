@@ -19,3 +19,33 @@ Here are some ideas to get you started:
 <!-- -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact)
 
+opportunity to improve my work.
+
+🛠️ Technologies & Tools
+Here are some of the languages and tools I actively use:
+
+
+
+
+
+
+
+📊 GitHub Stats
+
+🌍 Follow Me Around the Web
+Twitter 🐦
+
+LinkedIn 🔗
+
+Stack Overflow 💬
+
+Dev.to 💻
+
+Website/Blog 🌐
+
+📬 Get in Touch
+Feel free to reach out with any questions, or if you want to discuss new opportunities, improvements, or collaborations.
+
+Email: your.email@example.com
+
+Happy Coding! 😊
