@@ -27,9 +27,6 @@ Here are some ideas to get you started:
  </tr>
 </table>
 
-## 🏆 GitHub Trophies
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dattatraybodake" alt="Dattatraybodake" /></a> 
-
 ## 🌍 Follow Me Around the Web
 Feel free to reach out with any questions, or if you want to discuss new opportunities, improvements, or collaborations.
 <p>
