@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💻 Tech Stack:
-HTML5 CSS3
-Bootstrap angular reactjs
-C C++ Java JavaScript Python PHP
- Git  Windows Terminal Stack Overflow LaTeX
-    Microsoft Office Windows 11
-      jira mongoDB
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact)
+
