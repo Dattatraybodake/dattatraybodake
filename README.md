@@ -1,4 +1,4 @@
-## Hi there 👋 Dattatray Bodake
+## Hi there 👋 I'm Dattatray Bodake
 
 <!-- **Dattatraybodake/dattatraybodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
