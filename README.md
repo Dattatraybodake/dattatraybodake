@@ -42,7 +42,8 @@ Here are some of the languages and tools I actively use:
 
 | Left Column | Right Column |
 |-------------|--------------|
-| Content     | Content      |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dattatraybodake&show_icons=true&count_private=true&theme=github_dark)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dattatraybodake&layout=compact) |
 
 
 
