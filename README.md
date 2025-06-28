@@ -4,9 +4,7 @@
 **Dattatraybodake/dattatraybodake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me
-<p> Welcome to my personal repository! This space reflects who I am as a developer and a lifelong learner. It includes the configurations that shape my GitHub profile, along with a curated collection of my personal projects, interests, and the tools I enjoy using. Through this repository, I aim to share not just my technical skills, but also my journey, passion for problem-solving, and the values I prioritize in my work.
-
-</p>
+<!-- Welcome to my personal repository! This space reflects who I am as a developer and a lifelong learner. It includes the configurations that shape my GitHub profile, along with a curated collection of my personal projects, interests, and the tools I enjoy using. Through this repository, I aim to share not just my technical skills, but also my journey, passion for problem-solving, and the values I prioritize in my work.-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
