@@ -23,7 +23,7 @@ Here are some ideas to get you started:
      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dattatraybodake&show_icons=true&locale=en&layout=compact" alt="Dattatray" /></p>
    </td>
    <td>
-     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dattatraybodake&" alt="swapniltake1" /></p>   
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dattatraybodake&" alt="Dattatray" /></p>   
    </td>
  </tr>
 </table>
