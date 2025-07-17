@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 Code360 Profile
 
-🔗 [View My Code360 Profile](https://www.naukri.com/code360/profile/552af94f-1bdb-46a6-ac77-896db7f9a794)
+## 🚀 My Code360 Profile
+
+Check out my [Code360 profile](https://www.naukri.com/code360/profile/552af94f-1bdb-46a6-ac77-896db7f9a794).
 
 
 ## 🌍 Follow Me Around the Web
